@@ -1,0 +1,26 @@
+{
+  "transactions": [
+    {
+      "coin": "Bitcoin",
+      "transaction": "Buy",
+      "price": 7061.78,
+      "quantity": 5,
+      "amount": 35308.9,
+      "wallet": 964691.1,
+      "profit": 0,
+      "date": "11/16/2019  17:5:42",
+      "id": 1
+    },
+    {
+      "coin": "Bitcoin",
+      "transaction": "Sell",
+      "price": 7061.78,
+      "quantity": 5,
+      "amount": 35308.9,
+      "wallet": 1000000,
+      "profit": 0,
+      "date": "11/16/2019  17:7:28",
+      "id": 2
+    }
+  ]
+}
